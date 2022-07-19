@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Image in html</h2>
+    <img src="nature.jpg" alt="Demo Image 1" style="height: 250px;width:450px"/><hr/>
+
+    <h2>Audio in html</h2>
+    <audio src="audio.mp3.mp3"controls autoplay loop ></audio><hr/>
+
+    <div class="fullscreen_bg">
+        <video src="rain.mp4" autoplay loop muted class="fullscreen_bg_video"></video>
+    </div>
+
+
+    
+</body>
+</html>
